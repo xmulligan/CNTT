@@ -24,7 +24,7 @@ The purpose of this chapter is to address the relation between this Reference Mo
 ### 8.2.1 NFVI reference architectures
 
 <a name="8.2.2"></a>
-### 8.2.2 Test suites
+### 8.2.2 Test suite
 
 <a name="8.3"></a>
 ## 8.3 Recommendations
