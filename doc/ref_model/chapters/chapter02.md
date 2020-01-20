@@ -155,7 +155,7 @@ By trying to sort VNFs into different categories based on the requirements obser
   - Requirements
     - Predictable computing
     - Low network latency    
-<!--
+<!---
 - **Profile Four**
   - VNF types
     - Control plane functions with specific storage needs
@@ -163,7 +163,7 @@ By trying to sort VNFs into different categories based on the requirements obser
   - Requirements
     - High storage IOPS
     - High storage volume
--->
+--->
 
 <a name="2.3"></a>
 # 2.3 NFVI Profiles
